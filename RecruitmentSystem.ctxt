@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=RecruitmentSystem
+comment1.params=vacancyNo\ designation\ jobType\ staffName\ joiningDate\ qualification\ appointedBy\ salary
+comment1.target=FullTimeStaffHire(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment10.params=
+comment10.target=void\ createButtons()
+comment11.params=args
+comment11.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=java.lang.String\ getVacancyNo()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=RecruitmentSystem()
+comment5.params=
+comment5.target=void\ createSharedFields()
+comment6.params=
+comment6.target=void\ createPartTimePanel()
+comment7.params=
+comment7.target=void\ createFullTimePanel()
+comment8.params=
+comment8.target=boolean\ fieldsFilledForPartTime()
+comment9.params=
+comment9.target=boolean\ fieldsFilledForFullTime()
+numComments=12
